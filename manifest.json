@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-29T17:29:49.233Z",
+  "builtAt": "2026-10-29T18:03:40.644Z",
   "hosting": "github-pages",
   "fileCount": 40,
   "files": [
@@ -19,19 +19,19 @@
       "sha256": "b5325673140d5b18fc78fcb4d7fc1e0b6ae16a7b0f8609d35f2bf6de096eeac1"
     },
     {
-      "path": "assets/app-8EN3K_54.css",
-      "bytes": 134827,
-      "sha256": "6a36356a4b39febf3907a9cde31262b423138c589261a24a57313b5422a41dab"
+      "path": "assets/app-C9kjsGAQ.css",
+      "bytes": 135114,
+      "sha256": "9b16bbce6b559a56b00bb52cf2d711298bf8afe53f386697b83836aca1e9f11b"
     },
     {
-      "path": "assets/app-D2pBRNtr.js",
-      "bytes": 791498,
-      "sha256": "c039a25e4506877ae4e258138601d0c6211ab5b6d3be95a02506fe0e540632be"
+      "path": "assets/app-CXtSHcyP.js",
+      "bytes": 727655,
+      "sha256": "b60a6cc5d46f780eb7210125933991a13c5ba058394c3bde6649e0fe78049f32"
     },
     {
       "path": "assets/ballsInteraction-DROG_DTd.js",
-      "bytes": 1023812,
-      "sha256": "c10309d1cc06bf2004f35a683f4f5da4ed60ef9c9b3d1ea0165e828d20d95d76"
+      "bytes": 1026968,
+      "sha256": "280525e9813e23b9ec56285fbfefcf46d255f980f85771dc29e592547d322ef6"
     },
     {
       "path": "assets/ballsInteraction-iG_3Fc8D.css",
@@ -45,8 +45,8 @@
     },
     {
       "path": "assets/share-DvB4B8hw.js",
-      "bytes": 306909,
-      "sha256": "c6e445718d0bd5e7afb2fe2092e6b55e43266c16cf17a3c5ab558c82b982618d"
+      "bytes": 310065,
+      "sha256": "24955de0e6fa25f4c9a4364b051207367a9c0af92ed2c46b1234bc5b32e806ac"
     },
     {
       "path": "assets/vendor/README.md",
@@ -191,7 +191,7 @@
     {
       "path": "index.html",
       "bytes": 4700,
-      "sha256": "bc585f7df5021e4dd7eda927f4ac8b94f6910a63bf4868146452a86e200cee4b"
+      "sha256": "e5b4467097dd0443436c5ab3133f8b97589fa3ba326b43be786e9281ecd4dbe8"
     },
     {
       "path": "share.html",
