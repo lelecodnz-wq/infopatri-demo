@@ -19,7 +19,7 @@ Os endereços relativos permitem usar tanto um domínio próprio quanto usuario.
 - Gráficos e votação manual.
 - Abrir/salvar projetos .ifp, salvamento local no navegador e exportações PNG/JPG/SVG/PDF e tabelas compatíveis com cada editor.
 
-As consultas às APIs oficiais e os links interativos de compartilhamento estão desativados nesta edição, pois precisam do servidor que o GitHub Pages não executa. Os arquivos importados permanecem no navegador; não são enviados a um servidor do InfoPatri. Guarde cópias .ifp para transferir projetos ou protegê-los contra a limpeza dos dados do navegador. Não inclua planilhas pessoais ou projetos no repositório destinado à publicação.
+As consultas às APIs oficiais usam acesso direto pelo navegador. Quando a fonte bloqueia esse acesso, é necessário configurar VITE_API_PROXY_URL durante a geração para usar o intermediário hospedado (ver docs/apis-online.md nas fontes). Os links interativos de compartilhamento continuam desativados, pois exigem armazenamento em servidor. Os arquivos importados permanecem no navegador; não são enviados a um servidor do InfoPatri. Guarde cópias .ifp para transferir projetos ou protegê-los contra a limpeza dos dados do navegador. Não inclua planilhas pessoais ou projetos no repositório destinado à publicação.
 
 ## Manutenção
 

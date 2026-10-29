@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-29T15:18:33.631Z",
+  "builtAt": "2026-10-29T17:08:08.975Z",
   "hosting": "github-pages",
   "fileCount": 37,
   "files": [
@@ -10,8 +10,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 1967,
-      "sha256": "7f02916f9bd427dd7e5eab703373284ec5521a75092018bb3610f3b14ca533e7"
+      "bytes": 2145,
+      "sha256": "4da823ecbf940daa31dd1ce23d88e18453113e52b6466f3ce62a7b50e409531c"
     },
     {
       "path": "THIRD_PARTY_NOTICES.txt",
@@ -24,14 +24,14 @@
       "sha256": "6a36356a4b39febf3907a9cde31262b423138c589261a24a57313b5422a41dab"
     },
     {
-      "path": "assets/app-cqNHM8dl.js",
-      "bytes": 785226,
-      "sha256": "cd779bfc040f5981a9ecab7d3cd9cc1ec13ef306048b2f843dd52fac1861708a"
+      "path": "assets/app-PqUTmD2b.js",
+      "bytes": 789275,
+      "sha256": "f80bb9079284318bf520dcacfc94dc021892c880f2af3ab78e673fc88baeeec6"
     },
     {
-      "path": "assets/ballsInteraction-DZ7iLfxE.js",
-      "bytes": 1018506,
-      "sha256": "006ec071795d1ae57b26ed30fb3f16aebee82449f04f5129944edac67f7129d1"
+      "path": "assets/ballsInteraction-ZQQpgWHK.js",
+      "bytes": 1018657,
+      "sha256": "05ea78a72489691205119d4d6c3ed691d1a8f21cf60c1b9edc33d4c35a0ac9f8"
     },
     {
       "path": "assets/ballsInteraction-iG_3Fc8D.css",
@@ -181,7 +181,7 @@
     {
       "path": "index.html",
       "bytes": 4700,
-      "sha256": "0ab22df1cfa759b37b241d0faa4996232510993dfb7319b847ef0e39abc41999"
+      "sha256": "bd039d895014939270d99cf184a2df3539c528a19041f52ab016a0e069cdf6f1"
     }
   ]
 }
