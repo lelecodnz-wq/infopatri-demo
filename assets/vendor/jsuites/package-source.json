@@ -1,0 +1,17 @@
+{
+  "name": "jsuites",
+  "version": "5.13.5",
+  "dist": {
+    "shasum": "d9db6f8c4f0f716d96bd9d1c243e894a8f2e2407",
+    "tarball": "https://registry.npmjs.org/jsuites/-/jsuites-5.13.5.tgz",
+    "fileCount": 81,
+    "integrity": "sha512-cvkcpy/v5I3+IAcNPE4UP38PFCEfUQw9JI5NN61dlcXLwkD+2UTIOsRPvgMLeqI1eDWHL4AHfrbcE/+TFciUsw==",
+    "signatures": [
+      {
+        "sig": "MEQCICm6ErPwB9+GDDbBvO9yiyoF+NaIIK1iU0xtFhP8M+guAiA13bZ/ZXAA7KJJ0bfTfR/8pAQwThWXHiNlv3jYa9YrEA==",
+        "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+      }
+    ],
+    "unpackedSize": 695629
+  }
+}

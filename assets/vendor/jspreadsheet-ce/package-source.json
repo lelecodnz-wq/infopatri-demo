@@ -1,0 +1,17 @@
+{
+  "name": "jspreadsheet-ce",
+  "version": "5.0.4",
+  "dist": {
+    "integrity": "sha512-ra1JI1n+tEGgRMzTzNkPZjG0HZz8W6bFGAiTiHl+eYarXdRmS5qDc/ua3l2ev7oZ6Og9kjfrXYHVLUWiVc308w==",
+    "shasum": "e2794403baf3cd61930d8503c1b87798f6065499",
+    "tarball": "https://registry.npmjs.org/jspreadsheet-ce/-/jspreadsheet-ce-5.0.4.tgz",
+    "fileCount": 24,
+    "unpackedSize": 310798,
+    "signatures": [
+      {
+        "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U",
+        "sig": "MEQCIHFfb6pxSV3bgq/gw+lU/jZDeZpFB8SgTMM/9cAW3yRCAiAtDvMKAvlSiXfvbnSi6YkPfwjmkz5gvNoIyFsX5Si+Sw=="
+      }
+    ]
+  }
+}
