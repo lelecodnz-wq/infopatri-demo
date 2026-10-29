@@ -19,7 +19,7 @@ Os endereços relativos permitem usar tanto um domínio próprio quanto usuario.
 - Gráficos e votação manual.
 - Abrir/salvar projetos .ifp, salvamento local no navegador e exportações PNG/JPG/SVG/PDF e tabelas compatíveis com cada editor.
 
-As consultas às APIs oficiais usam acesso direto pelo navegador. Quando a fonte bloqueia esse acesso, é necessário configurar VITE_API_PROXY_URL durante a geração para usar o intermediário hospedado (ver docs/apis-online.md nas fontes). Os links interativos de compartilhamento continuam desativados, pois exigem armazenamento em servidor. Os arquivos importados permanecem no navegador; não são enviados a um servidor do InfoPatri. Guarde cópias .ifp para transferir projetos ou protegê-los contra a limpeza dos dados do navegador. Não inclua planilhas pessoais ou projetos no repositório destinado à publicação.
+As consultas às APIs oficiais usam acesso direto pelo navegador. Quando a fonte bloqueia esse acesso, é necessário configurar VITE_API_PROXY_URL durante a geração para usar o intermediário hospedado (ver docs/apis-online.md nas fontes). O botão Compartilhar cria uma cópia interativa com dados compactados no próprio link, sem armazenamento em servidor. A cópia não acompanha alterações no original; quem tiver o link poderá acessar seus dados. Links de até 16.000 caracteres e cópias de até 1 MB são aceitos; aplicativos de mensagens podem impor limites menores. Os arquivos importados permanecem no navegador; não são enviados a um servidor do InfoPatri. Guarde cópias .ifp para transferir projetos ou protegê-los contra a limpeza dos dados do navegador. Não inclua planilhas pessoais ou projetos no repositório destinado à publicação.
 
 ## Manutenção
 
